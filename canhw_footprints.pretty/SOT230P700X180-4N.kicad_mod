@@ -301,4 +301,15 @@
 		(uuid "8d1f0a0b-ae60-4dc2-aad1-2dc6b6b0015d")
 	)
 	(embedded_fonts no)
+	(model "C:/Users/sky/Rocketry/UA78M05ICYR/UA78M05IDCYR.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )
