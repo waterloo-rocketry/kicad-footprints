@@ -4340,7 +4340,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "canhw:connector_Harwin_G125–MG10605M4P"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5664,7 +5664,7 @@
 				)
 			)
 		)
-		(property "Value" "INA180"
+		(property "Value" "INA180A3"
 			(at -11.43 15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5674,7 +5674,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
